@@ -12,7 +12,7 @@ class ProfilePage extends StatelessWidget {
         children: [
           const CircleAvatar(
             radius: 60,
-            backgroundImage: NetworkImage('https://i.pravatar.cc/300'),
+            backgroundImage: NetworkImage('https://gcdnb.pbrd.co/images/b0qF3cEYlyca.jpg'),
           ),
           const Text(
                 'Adhy Kuncoro Jati Taruna Pratama',
